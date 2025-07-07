@@ -1,0 +1,10 @@
+<ASX version = "3.0">
+  <TITLE>京都三条ラジオカフェ</TITLE>
+  <AUTHOR>京都三条ラジオカフェ</AUTHOR>
+  <COPYRIGHT>FM79.7MHz京都三条ラジオカフェ</COPYRIGHT>
+  <MoreInfo href = "http://radiocafe.jp/" />
+  <Entry>
+    <ref href = "mms://hdv3.nkansai.tv/radiocafe"/>
+      <MoreInfo href ="http://radiocafe.jp/" />
+  </Entry>
+</ASX>
